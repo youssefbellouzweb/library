@@ -1,2 +1,2 @@
-git checkout -b main/mvnw text eol=lf
+/mvnw text eol=lf
 *.cmd text eol=crlf
